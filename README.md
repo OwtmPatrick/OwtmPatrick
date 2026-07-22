@@ -102,4 +102,4 @@ My priorities are:
 
 ## Contact
 
-Feel free to reach out through [GitHub](https://github.com/OwtmPatrick).
+Feel free to reach out through [Telegram](https://t.me/owtmpatrick).
